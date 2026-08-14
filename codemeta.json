@@ -1,0 +1,25 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
+  "name": "dataset-archiver",
+  "version": "2.0.0",
+  "description": "Package dataset directories into reproducible archives with provenance identifiers.",
+  "identifier": "swh:1:rel:22ece559cc7cc2364edc5e5593d63ae8bd229f9f",
+  "codeRepository": "https://github.com/Anas-Elhounsri/dataset-archiver",
+  "readme": "https://github.com/Anas-Elhounsri/dataset-archiver/blob/main/README.md",
+  "downloadUrl": "https://github.com/Anas-Elhounsri/dataset-archiver/archive/v1.5.0.tar.gz",
+  "license": "MIT",
+  "programmingLanguage": {
+    "@type": "ComputerLanguage",
+    "name": "Python 3.11"
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "Omar",
+      "familyName": "Haddad",
+      "email": "omar.haddad@example.org"
+    }
+  ],
+  "dateModified": "2026-10-29"
+}
